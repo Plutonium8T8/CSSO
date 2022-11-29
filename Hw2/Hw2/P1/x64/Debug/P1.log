@@ -1,0 +1,6 @@
+﻿  P1.cpp
+D:\CSSO\Hw2\Hw2\Hw2\P1.cpp(90,6): error C2664: 'int lengthOf(const char *)': cannot convert argument 1 from 'WCHAR [260]' to 'const char *'
+D:\CSSO\Hw2\Hw2\Hw2\P1.cpp(90,50): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\CSSO\Hw2\Hw2\Hw2\Functions.h(35,5): message : see declaration of 'lengthOf'
+D:\CSSO\Hw2\Hw2\Hw2\P1.cpp(90,6): error C2660: 'WriteFile': function does not take 4 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(1186,1): message : see declaration of 'WriteFile'

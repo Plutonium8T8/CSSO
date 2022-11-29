@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\CSSO\Hw1\Hw1\Hw1\Source.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\CSSO\Hw1\Hw1\Hw1\Source.cpp(12,12): warning C4101: 'h2': unreferenced local variable
+  Hw1.vcxproj -> D:\CSSO\Hw1\Hw1\x64\Debug\Hw1.exe

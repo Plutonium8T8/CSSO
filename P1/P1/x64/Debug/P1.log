@@ -1,0 +1,7 @@
+﻿  P1.cpp
+D:\CSSO\P1\P1\P1.cpp(51,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\CSSO\P1\P1\P1.cpp(133,6): error C2664: 'int lengthOf(char *)': cannot convert argument 1 from 'WCHAR [260]' to 'char *'
+D:\CSSO\P1\P1\P1.cpp(133,50): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\CSSO\P1\P1\P1.cpp(38,5): message : see declaration of 'lengthOf'
+D:\CSSO\P1\P1\P1.cpp(133,6): error C2660: 'WriteFile': function does not take 4 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(1186,1): message : see declaration of 'WriteFile'
